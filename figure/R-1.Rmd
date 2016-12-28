@@ -1,0 +1,10 @@
+---
+title: "Exp_data_week1"
+output: html_document
+---
+
+```{r}
+
+
+
+```
